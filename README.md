@@ -1,4 +1,5 @@
 # EMS Email Adapter
+
 ## Running
 This service implements an AWS Lambda function to accept incoming emails and dispatch an XML attachment
 to the 111 Report transformer service.
